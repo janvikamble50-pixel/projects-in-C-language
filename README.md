@@ -1,0 +1,2 @@
+# Guess-the-number-game
+A simple C program that generates a random number and asks the user to guess it.
